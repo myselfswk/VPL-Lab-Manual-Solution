@@ -1,0 +1,14 @@
+F:\VPL Assignments\VPL-Lab-Manual-Solution\bin\Debug\VPL-Lab-Manual-Solution.exe.config
+F:\VPL Assignments\VPL-Lab-Manual-Solution\bin\Debug\VPL-Lab-Manual-Solution.exe
+F:\VPL Assignments\VPL-Lab-Manual-Solution\bin\Debug\VPL-Lab-Manual-Solution.pdb
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL-Lab-Manual-Solution.csprojAssemblyReference.cache
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL_Lab_Manual_Solution.ExOne.resources
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL_Lab_Manual_Solution.Form1.resources
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL_Lab_Manual_Solution.Properties.Resources.resources
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL-Lab-Manual-Solution.csproj.GenerateResource.cache
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL-Lab-Manual-Solution.csproj.CoreCompileInputs.cache
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL-Lab-Manual-Solution.exe
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL-Lab-Manual-Solution.pdb
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL_Lab_Manual_Solution.ExThree.resources
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL_Lab_Manual_Solution.ExTwo.resources
+F:\VPL Assignments\VPL-Lab-Manual-Solution\obj\Debug\VPL_Lab_Manual_Solution.ExTwoDetails.resources
